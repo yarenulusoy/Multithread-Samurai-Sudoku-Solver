@@ -35,6 +35,7 @@
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto;  width: 300px"> 
- 
+  
+  Aynı şekilde 10 thread kullanarak çözüme ulaşmak da mümkündür. 
   
  
