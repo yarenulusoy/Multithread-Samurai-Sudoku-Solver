@@ -1,8 +1,8 @@
 # Multithread-Samurai-Sudoku-Solver
- Python Multithread Kullanarak Samurai Sudoku Çözücü
- Programlama Dili : Python
- Arayüz : PyGame
- Grafik : Matplotlib
+ Python Multithread Kullanarak Samurai Sudoku Çözücü \
+ Programlama Dili : Python \
+ Arayüz : PyGame \
+ Grafik : Matplotlib \
  
  Multithread yapısını kullanarak verilecek samurai sudoku üzerinden çözüm bulunacaktır. Sudoku başlangıç değerleri .txt uzantılı dosyada verilmiştir. 
  Verilen değerler dinamik olarak çalışmaktadır.
